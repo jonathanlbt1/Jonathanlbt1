@@ -20,9 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-  <img align="right" alt="John-pic" height="250" style="border-radius:100px;" 
-src="https://media-exp1.licdn.com/dms/image/C4E22AQH2y0OXPk-D7w/feedshare-shrink_2048_1536/0/1643834409955?e=1648080000&v=beta&t=ZbV54ve7PBBho48tzCvate8biuXRRCeg9ATaIu5F_cs">
-</div>
+
   
   ##
  
