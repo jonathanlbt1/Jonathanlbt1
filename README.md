@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: Love country music!
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/jonathanlbt1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlbt1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlbt1&layout=compact&langs_count=7&theme=dark"/>
