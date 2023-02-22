@@ -5,7 +5,7 @@
 - 🌱 Apaixonado por projetos web e cloud
 - 👯 Gosto de trabalhar de forma voluntária e com open source projects
 - 😄 Pronouns: Ele
-- ⚡ Fun fact: Love country music!
+- ⚡ Fun fact: I love country music!
 
 <div align="center">
   <a href="https://github.com/jonathanlbt1">
