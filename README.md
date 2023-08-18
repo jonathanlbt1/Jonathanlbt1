@@ -1,8 +1,8 @@
 ### Hey there!!! Thanks for your visit! 👋
 
 
-- 🔭 Aluno do curso superior em Engenharia de Software
-- 🌱 Apaixonado por projetos web e cloud
+- 🔭 Último semestre do curso de ADS pelo Senac Santo Amaro.
+- 🌱 Apaixonado por projetos Spring & Java
 - 👯 Gosto de trabalhar de forma voluntária e com open source projects
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: I love country music!
