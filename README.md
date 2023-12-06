@@ -1,7 +1,7 @@
 ### Hey there!!! Thanks for your visit! 👋
 
 
-- 🔭 Último semestre do curso de ADS pelo Senac Santo Amaro.
+- 🔭 Aluno do curso de Engenharia da Computação na faculdade Cruzeiro do Sul.
 - 🌱 Apaixonado por projetos Spring & Java
 - 👯 Gosto de trabalhar de forma voluntária e com open source projects
 - 😄 Pronouns: Ele
