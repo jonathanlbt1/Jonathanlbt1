@@ -2,14 +2,14 @@
 
 
 - 🔭 Aluno do curso de Engenharia da Computação na faculdade Cruzeiro do Sul.
-- 🌱 Apaixonado por projetos Spring & Java
+- 🌱 Apaixonado por projetos Java | Spring | Apache Camel
 - 👯 Gosto de trabalhar de forma voluntária e com open source projects
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: I love country music!
 
 <div align="center">
   <a href="https://github.com/jonathanlbt1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlbt1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlbt1&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlbt1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
