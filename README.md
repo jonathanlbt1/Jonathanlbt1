@@ -94,9 +94,6 @@
      
 ![](https://github-profile-trophy.vercel.app/?username=jonathanlbt1&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-##
-
-![](./profile-3d-contrib/profile-gitblock.svg)
      
 ##
 
