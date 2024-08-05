@@ -7,11 +7,21 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
+    inputs:
+      github_user_name:
+        description: 'The github user name to generate the snake game from'
+        required: true
+        default: github.actor
+      svg_out_path:
+        description: 'The path to the output svg file'
+        required: true
+        default: 'dist/github-contribution-grid-snake.svg'
+
   
   # run on every push on the master branch
   push:
     branches:
-    - master
+      - master
     
   
 jobs:
@@ -25,9 +35,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs:
-            # dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          output: ${{ github.event.inputs.svg_out_path }}
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
