@@ -78,7 +78,7 @@
 ##
 
 <div align="center">
-   <img height="500em" <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" /></a>
+   <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" alt="animated image" title="source: imgur.com" height="500em" /></a>
 </div>
 
 ##
