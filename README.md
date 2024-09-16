@@ -23,7 +23,7 @@
 ##
 
  <p>
-  <a href="https://github.com/jonathanlbt1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20at%20GFT%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+at+GFT" alt="Typing SVG" /></a>
 </p>
 
 ##
