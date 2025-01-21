@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathanlbt1&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanlbt1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanlbt1&theme=dark&type=png" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanlbt1&theme=dark" alt="GitHub Streak" /></a>
    
 </div>
 
