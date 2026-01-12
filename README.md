@@ -13,7 +13,7 @@
 
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanlbt1&theme=chartreuse_dark) |
+| ![]([![Jonathanlbt1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanlbt1)](https://github.com/jonathanlbt1/github-readme-stats)) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanlbt1&theme=chartreuse_dark) |
 | :-: | :-: | 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonathanlbt1&theme=chartreuse_dark&utcOffset=8) |
