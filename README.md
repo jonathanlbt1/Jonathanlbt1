@@ -5,31 +5,27 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanlbt1&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanlbt1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanlbt1&theme=dark" alt="GitHub Streak" /></a> -->
-   
+  <a href="https://github.com/jonathanlbt1/"><img src="https://streak-stats.demolab.com?user=jonathanlbt1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
-
-| ![]([![Jonathanlbt1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanlbt1)](https://github.com/jonathanlbt1/github-readme-stats)) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanlbt1&theme=chartreuse_dark) |
-| :-: | :-: | 
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathanlbt1&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonathanlbt1&theme=chartreuse_dark&utcOffset=8) |
-| :-: | :-: | :-: | 
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonathanlbt1&theme=chartreuse_dark" alt="most-commit-language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathanlbt1&theme=chartreuse_dark" alt="stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonathanlbt1&theme=chartreuse_dark&utcOffset=8" alt="productive-time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanlbt1&theme=chartreuse_dark" alt="repos-per-language" />
+</div>
 
 ##
 
- <p>
+ <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+at+GFT" alt="Typing SVG" /></a>
 </p>
 
 ##
 
 <div align="center">
-<h3> My Stacks </h3>
+<h3> Stack I've worked with </h3>
 
 <div align="left">
   <a href="https://java.com" target="_blank"><a href="https://java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -89,16 +85,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jonathanlbt1/jonathanlbt1/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-##  GitHub Trophies
-     
-![](https://github-profile-trophy.vercel.app/?username=jonathanlbt1&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-     
 ##
 
 <div align="center">
-  <a href="https://github.com/jonathanlbt1/" target="_blank"><img src="https://profile-counter.glitch.me/jonathanlbt1/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=jonathanlbt1&color=green" alt="counter" />
 </div> 
  
 ##  
