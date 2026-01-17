@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://i.imgur.com/FnHj2ZQ.png"><img src="https://i.imgur.com/FnHj2ZQ.png" title="source: imgur.com" /></a>
+   <a href="https://media.licdn.com/dms/image/v2/D4D16AQEIgktuY43URA/profile-displaybackgroundimage-shrink_350_1400/B4DZmGB3lfGkAY-/0/1758890261693?e=1770249600&v=beta&t=QURs2SxhsDiuj3cI3MRgQPTk8RqbRhdRTDBkOx9_YWA"><img src="https://media.licdn.com/dms/image/v2/D4D16AQEIgktuY43URA/profile-displaybackgroundimage-shrink_350_1400/B4DZmGB3lfGkAY-/0/1758890261693?e=1770249600&v=beta&t=QURs2SxhsDiuj3cI3MRgQPTk8RqbRhdRTDBkOx9_YWA" title="source: linkedin.com" /></a>
 </div>
 
 ##
