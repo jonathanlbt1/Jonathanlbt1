@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://media.licdn.com/dms/image/v2/D4D16AQEIgktuY43URA/profile-displaybackgroundimage-shrink_350_1400/B4DZmGB3lfGkAY-/0/1758890261693?e=1772668800&v=beta&t=jtyPphhH6HkRRdTLwXuRCp4qUcGFGK7s66kT1Crh16Y"><img src="[https://media.licdn.com/dm](https://media.licdn.com/dms/image/v2/D4D16AQEIgktuY43URA/profile-displaybackgroundimage-shrink_350_1400/B4DZmGB3lfGkAY-/0/1758890261693?e=1772668800&v=beta&t=jtyPphhH6HkRRdTLwXuRCp4qUcGFGK7s66kT1Crh16Y)" title="source: linkedin.com" /></a>
+   <img src="https://github.com/jonathanlbt1/utilities/blob/main/github.png" alt="GitHub" width="800">
 </div>
 
 ##
